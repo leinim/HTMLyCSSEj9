@@ -1,0 +1,82 @@
+#titulo {
+    color: darkcyan;
+}
+
+.rojito {
+    color: red;
+}
+
+.destacado {
+    color: darkgoldenrod;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+
+#rojitosub {
+    color: red;    
+}
+
+#azulito {
+    color: blue;
+    font-style: italic;
+}
+
+.especial {
+    color: darkmagenta;
+}
+
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    margin: 5px;
+    padding: 5px;  
+}
+
+tbody {
+    border: 1px black solid;
+    border-collapse: collapse; 
+    margin: 5px;
+    padding: 5px;   
+}
+
+th {
+    border: 1px black solid;
+    border-collapse: collapse; 
+    margin: 5px;
+    padding: 5px;    
+}
+
+tr {
+    border: 1px black solid;
+    border-collapse: collapse;  
+    margin: 5px;
+    padding: 5px;    
+}
+
+td {
+    color: green;
+    border: 1px black solid;
+    border-collapse: collapse; 
+    margin: 5px;
+    padding: 5px;  
+}
+
+.especial2 {
+    color: darkgoldenrod;        
+}
+
+#adicional {
+    color:darkkhaki;
+}
+
+#rosita {
+    color: deeppink;
+}
+
+#vs {
+    color: green;   
+}
+
